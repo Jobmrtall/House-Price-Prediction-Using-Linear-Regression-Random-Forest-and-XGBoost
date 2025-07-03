@@ -80,7 +80,7 @@ Among all models, **ElasticNet** achieved the best test performance in terms of 
 
 ## 🔗 View Full Project
 
-📎 [GitHub Repository Link](https://github.com/yourusername/your-repo)
+📎 [GitHub Repository Link]([https://github.com/yourusername/your-repo](https://github.com/Jobmrtall/House-Price-Prediction-Using-Linear-Regression-Random-Forest-and-XGBoost/blob/main/House_Price_Prediction_Using_Linear_Regression_%2CRandom_Forest_and_XGBoost.ipynb))
 
 ---
 
